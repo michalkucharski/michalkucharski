@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I am Michal Kucharski 👋
+I am a software engineer, mostly working in developing for financial industry.
+
+📫 How to reach me: 
+- email: michal.kucharski33@gmail.com
+- linkedin: https://www.linkedin.com/in/mkucharskianalyst/
 
 <!--
 **michalkucharski/michalkucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
