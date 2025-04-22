@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **Pyhton** and ***Golang*.
+🌱 I’m currently learning **Pyhton** and **Golang**.
