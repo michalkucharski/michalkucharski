@@ -1,6 +1,6 @@
 ## Hi there  👋
 My name is Michal Kucharski. 
-I am a software engineer, mostly working in developing for financial industry.
+I am a software engineer, mostly working in developing products for financial industry.
 
 ### Languages which I know:
 
